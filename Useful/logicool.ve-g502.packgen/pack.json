@@ -1,0 +1,13 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.ve-g502",
+    "packcon": true,
+    "type": "Useful",
+    "name": "Ve-G502",
+    "description": "skibid",
+    "authors": [
+        {
+            "name": "Logicool"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "unknown.pinkarms-mazeo-narie",
+    "packgen": true,
+    "type": "Useful",
+    "name": "pinkarms Mazeo Narie",
+    "description": "An pack to click",
+    "authors": [
+        {
+            "name": "Unknown"
+        }
+    ]
+}

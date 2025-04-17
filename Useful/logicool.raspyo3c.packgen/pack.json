@@ -1,0 +1,12 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.raspyo3c",
+    "packcon": true,
+    "type": "Useful",
+    "name": "RaspyO3c",
+    "authors": [
+        {
+            "name": "logicool"
+        }
+    ]
+}

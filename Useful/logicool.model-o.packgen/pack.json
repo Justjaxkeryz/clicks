@@ -1,0 +1,12 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.model-o",
+    "packcon": true,
+    "type": "Meme",
+    "name": "Model O",
+    "authors": [
+        {
+            "name": "logicool"
+        }
+    ]
+}

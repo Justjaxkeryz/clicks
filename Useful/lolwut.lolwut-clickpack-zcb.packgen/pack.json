@@ -1,0 +1,14 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "lolwut.lolwut-clickpack-zcb",
+    "packgen": true,
+    "type": "Useful",
+    "name": "Lolwut clickpack ZCB",
+    "description": "ZCB CLICKPACK???",
+    "authors": [
+        {
+            "name": "Lolwut",
+            "gdAccountID": 918273636717
+        }
+    ]
+}

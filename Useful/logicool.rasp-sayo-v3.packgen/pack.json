@@ -1,0 +1,13 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.rasp-sayo-v3",
+    "packcon": true,
+    "type": "Useful",
+    "name": "Rasp-sayo-v3",
+    "description": "skibid",
+    "authors": [
+        {
+            "name": "Logicool"
+        }
+    ]
+}

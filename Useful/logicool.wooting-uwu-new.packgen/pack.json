@@ -1,0 +1,12 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.wooting-uwu-new",
+    "packcon": true,
+    "type": "Useful",
+    "name": "wooting uwu new",
+    "authors": [
+        {
+            "name": "logicool"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.blueswitchh",
+    "packcon": true,
+    "type": "Useful",
+    "name": "Blueswitchh",
+    "authors": [
+        {
+            "name": "logicool"
+        }
+    ]
+}

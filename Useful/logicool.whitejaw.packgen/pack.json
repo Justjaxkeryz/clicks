@@ -1,0 +1,12 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.whitejaw",
+    "packcon": true,
+    "type": "Meme",
+    "name": "whitejaw",
+    "authors": [
+        {
+            "name": "logicool"
+        }
+    ]
+}

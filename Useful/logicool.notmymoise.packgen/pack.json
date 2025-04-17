@@ -1,0 +1,12 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.notmymoise",
+    "packcon": true,
+    "type": "Useful",
+    "name": "notmymoise",
+    "authors": [
+        {
+            "name": "logicool"
+        }
+    ]
+}

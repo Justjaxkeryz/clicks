@@ -1,0 +1,12 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.geefiveo2",
+    "packcon": true,
+    "type": "Useful",
+    "name": "geefiveo2",
+    "authors": [
+        {
+            "name": "logicool"
+        }
+    ]
+}

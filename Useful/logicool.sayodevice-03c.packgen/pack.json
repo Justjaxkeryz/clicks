@@ -1,0 +1,12 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.sayodevice-03c",
+    "packcon": true,
+    "type": "Meme",
+    "name": "Sayodevice 03C",
+    "authors": [
+        {
+            "name": "logicool"
+        }
+    ]
+}

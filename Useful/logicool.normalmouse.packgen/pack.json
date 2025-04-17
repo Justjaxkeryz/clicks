@@ -1,0 +1,12 @@
+{
+    "$schema": "https://clicksounds.github.io/clicks/pack.schema.json",
+    "id": "logicool.normalmouse",
+    "packcon": true,
+    "type": "Useful",
+    "name": "normalmouse",
+    "authors": [
+        {
+            "name": "logicool"
+        }
+    ]
+}
